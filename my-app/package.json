@@ -1,9 +1,10 @@
 {
   "name": "my-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "homepage": "https://dwhatley19.github.io/idea-math-commments",
+  "homepage": "https://dwhatley19.github.io/idea-math-comments",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17"
